@@ -1,0 +1,17 @@
+C:\Users\ehsan.bagherzadeh\source\repos\CRC16_win\CRC16_win\bin\Debug\net6.0-windows\CRC16_win.exe
+C:\Users\ehsan.bagherzadeh\source\repos\CRC16_win\CRC16_win\bin\Debug\net6.0-windows\CRC16_win.deps.json
+C:\Users\ehsan.bagherzadeh\source\repos\CRC16_win\CRC16_win\bin\Debug\net6.0-windows\CRC16_win.runtimeconfig.json
+C:\Users\ehsan.bagherzadeh\source\repos\CRC16_win\CRC16_win\bin\Debug\net6.0-windows\CRC16_win.dll
+C:\Users\ehsan.bagherzadeh\source\repos\CRC16_win\CRC16_win\bin\Debug\net6.0-windows\CRC16_win.pdb
+C:\Users\ehsan.bagherzadeh\source\repos\CRC16_win\CRC16_win\obj\Debug\net6.0-windows\CRC16_win.csproj.AssemblyReference.cache
+C:\Users\ehsan.bagherzadeh\source\repos\CRC16_win\CRC16_win\obj\Debug\net6.0-windows\CRC16_win.Form1.resources
+C:\Users\ehsan.bagherzadeh\source\repos\CRC16_win\CRC16_win\obj\Debug\net6.0-windows\CRC16_win.csproj.GenerateResource.cache
+C:\Users\ehsan.bagherzadeh\source\repos\CRC16_win\CRC16_win\obj\Debug\net6.0-windows\CRC16_win.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ehsan.bagherzadeh\source\repos\CRC16_win\CRC16_win\obj\Debug\net6.0-windows\CRC16_win.AssemblyInfoInputs.cache
+C:\Users\ehsan.bagherzadeh\source\repos\CRC16_win\CRC16_win\obj\Debug\net6.0-windows\CRC16_win.AssemblyInfo.cs
+C:\Users\ehsan.bagherzadeh\source\repos\CRC16_win\CRC16_win\obj\Debug\net6.0-windows\CRC16_win.csproj.CoreCompileInputs.cache
+C:\Users\ehsan.bagherzadeh\source\repos\CRC16_win\CRC16_win\obj\Debug\net6.0-windows\CRC16_win.dll
+C:\Users\ehsan.bagherzadeh\source\repos\CRC16_win\CRC16_win\obj\Debug\net6.0-windows\refint\CRC16_win.dll
+C:\Users\ehsan.bagherzadeh\source\repos\CRC16_win\CRC16_win\obj\Debug\net6.0-windows\CRC16_win.pdb
+C:\Users\ehsan.bagherzadeh\source\repos\CRC16_win\CRC16_win\obj\Debug\net6.0-windows\CRC16_win.genruntimeconfig.cache
+C:\Users\ehsan.bagherzadeh\source\repos\CRC16_win\CRC16_win\obj\Debug\net6.0-windows\ref\CRC16_win.dll
